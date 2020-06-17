@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e02d8afb-d45b-4d13-96a3-b9fa4a964965" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03/hw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/hw.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592356293813</updated>
       <workItem from="1592356297411" duration="5114000" />
-      <workItem from="1592375757817" duration="2037000" />
+      <workItem from="1592375757817" duration="3353000" />
     </task>
     <task id="LOCAL-00001" summary="试验">
       <created>1592361206573</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592362220028</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="杨忠泽第一次作业">
+      <created>1592377918705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592377918705</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,45 +131,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="454" y="134" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1592356304748" />
-    <state x="500" y="9" key="CommitChangelistDialog2" timestamp="1592362217963">
+    <state x="500" y="9" key="CommitChangelistDialog2" timestamp="1592377916733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="500" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592362217963" />
+    <state x="500" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592377916733" />
     <state x="945" y="91" key="FileChooserDialogImpl" timestamp="1592358571783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="945" y="91" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592358571783" />
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1592377738607">
+    <state width="998" height="198" key="GridCell.Tab.0.bottom" timestamp="1592379220401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592377738607" />
-    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1592377738607">
+    <state width="998" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592379220401" />
+    <state width="998" height="198" key="GridCell.Tab.0.center" timestamp="1592379220400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592377738607" />
-    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1592377738607">
+    <state width="998" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592379220400" />
+    <state width="998" height="198" key="GridCell.Tab.0.left" timestamp="1592379220399">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592377738607" />
-    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1592377738607">
+    <state width="998" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592379220399" />
+    <state width="998" height="198" key="GridCell.Tab.0.right" timestamp="1592379220401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592377738607" />
+    <state width="998" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592379220401" />
     <state x="521" y="100" width="992" height="707" key="SettingsEditor" timestamp="1592364549142">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="521" y="100" width="992" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592364549142" />
-    <state x="542" y="161" key="Vcs.Push.Dialog.v2" timestamp="1592377793307">
+    <state x="542" y="161" key="Vcs.Push.Dialog.v2" timestamp="1592377928720">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="542" y="161" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592377793307" />
+    <state x="542" y="161" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592377928720" />
     <state x="922" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1592375759541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="922" y="382" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592375759541" />
-    <state x="0" y="0" key="new project wizard" timestamp="1592357018255">
+    <state x="700" y="234" key="git4idea.merge.GitPullDialog" timestamp="1592379185671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592357018255" />
+    <state x="700" y="234" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1592379185671" />
+    <state x="0" y="0" key="new project wizard" timestamp="1592378522424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592378522424" />
   </component>
 </project>
