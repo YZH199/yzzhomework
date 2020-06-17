@@ -28,11 +28,12 @@ public class hw {
             i++;
         }
         System.out.println(sum);
+
     }
 
-
 @Test
-public void test() {
+
+public  void test() {
     int i = 1;
     int sum = 0;
     while (i <= 100) {
@@ -52,7 +53,7 @@ public void test() {
     }
 }
 
-    @Test
+@Test
     public void test2 () {
         for (int i = 1; i <= 9; i++) {
             for (int j = 1; j <= i; j++) {
