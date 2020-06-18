@@ -34,12 +34,12 @@ public class zuoye {
             System.out.println(Arrays.toString(os));
             System.out.println(Arrays.toString(js));
             for (int v = 0; v< 8; v++) {
-                if (v<g && v<f) {
+                if (v<js.length && v<os.length) {
                     System.out.print(js[v]+" ");
                     System.out.print(os[v]+" ");
-                } else if (v>=g && v<f) {
+                } else if (v>=js.length && v<os.length) {
                     System.out.print(os[v]+" ");
-                } else if (v<=g && v>f) {
+                } else if (v<=js.length && v>os.length) {
                     System.out.print(js[v]+" ");
                 }
 
