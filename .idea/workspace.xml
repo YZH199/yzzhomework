@@ -1,283 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="e02d8afb-d45b-4d13-96a3-b9fa4a964965" name="Default Changelist" comment="" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="F:\IDEAcx\.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1dQTPaemBA8RJZpAbCw42nFb16I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="103" />
+    <option name="y" value="12" />
+    <option name="width" value="1750" />
+    <option name="height" value="969" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592442004832" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.hw">
-    <configuration name="hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.hw" />
-      <module name="YZZhomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hw.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="YZZhomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="第03天" />
-      <option name="MAIN_CLASS_NAME" value="day03.hw" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hw.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="YZZhomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="第03天" />
-      <option name="MAIN_CLASS_NAME" value="day03.hw" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.hw" />
-        <item itemvalue="JUnit.hw.test2" />
-        <item itemvalue="JUnit.hw.test" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="e02d8afb-d45b-4d13-96a3-b9fa4a964965" name="Default Changelist" comment="" />
-      <created>1592356293813</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1592356293813</updated>
-      <workItem from="1592356297411" duration="5114000" />
-      <workItem from="1592375757817" duration="4910000" />
-      <workItem from="1592380787451" duration="7612000" />
-    </task>
-    <task id="LOCAL-00001" summary="试验">
-      <created>1592361206573</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1592361206573</updated>
-    </task>
-    <task id="LOCAL-00002" summary="杨忠泽第一次作业">
-      <created>1592362220028</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1592362220028</updated>
-    </task>
-    <task id="LOCAL-00003" summary="杨忠泽第一次作业">
-      <created>1592377918705</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1592377918705</updated>
-    </task>
-    <task id="LOCAL-00004" summary="杨忠泽第一次作业">
-      <created>1592379300509</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1592379300509</updated>
-    </task>
-    <task id="LOCAL-00005" summary="杨忠泽第一次作业">
-      <created>1592379351503</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1592379351503</updated>
-    </task>
-    <task id="LOCAL-00006" summary="杨忠泽第一次作业">
-      <created>1592379446430</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1592379446430</updated>
-    </task>
-    <task id="LOCAL-00007" summary="杨忠泽第一次作业">
-      <created>1592385773392</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1592385773392</updated>
-    </task>
-    <task id="LOCAL-00008" summary="杨忠泽第一次作业">
-      <created>1592388296031</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1592388296031</updated>
-    </task>
-    <task id="LOCAL-00009" summary="杨忠泽第一次作业">
-      <created>1592388376894</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1592388376894</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="试验" />
-    <MESSAGE value="杨忠泽第一次作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="杨忠泽第一次作业" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="454" y="134" key="#Project_Structure" timestamp="1592356304748">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="454" y="134" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1592356304748" />
-    <state x="500" y="9" key="CommitChangelistDialog2" timestamp="1592388375376">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="500" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592388375376" />
-    <state x="945" y="91" key="FileChooserDialogImpl" timestamp="1592380346235">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="945" y="91" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592380346235" />
-    <state width="998" height="259" key="GridCell.Tab.0.bottom" timestamp="1592388406169">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="998" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592388406169" />
-    <state width="998" height="259" key="GridCell.Tab.0.center" timestamp="1592388406169">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="998" height="259" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592388406169" />
-    <state width="998" height="259" key="GridCell.Tab.0.left" timestamp="1592388406168">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="998" height="259" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592388406168" />
-    <state width="998" height="259" key="GridCell.Tab.0.right" timestamp="1592388406169">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="998" height="259" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592388406169" />
-    <state width="998" height="259" key="GridCell.Tab.1.bottom" timestamp="1592388406169">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="998" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592388406169" />
-    <state width="998" height="259" key="GridCell.Tab.1.center" timestamp="1592388406169">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="998" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592388406169" />
-    <state width="998" height="259" key="GridCell.Tab.1.left" timestamp="1592388406169">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="998" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592388406169" />
-    <state width="998" height="259" key="GridCell.Tab.1.right" timestamp="1592388406169">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="998" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592388406169" />
-    <state x="205" y="96" width="992" height="707" key="SettingsEditor" timestamp="1592387714469">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="205" y="96" width="992" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592387714469" />
-    <state x="542" y="161" key="Vcs.Push.Dialog.v2" timestamp="1592388404647">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="542" y="161" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592388404647" />
-    <state x="922" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1592388433260">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="922" y="382" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592388433260" />
-    <state x="799" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592380857421">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="799" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1592380857421" />
-    <state x="700" y="234" key="git4idea.merge.GitPullDialog" timestamp="1592379185671">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="700" y="234" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1592379185671" />
-    <state x="0" y="0" key="new project wizard" timestamp="1592378522424">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592378522424" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/YZZhomework$hw_test2.ic" NAME="hw.test2 Coverage Results" MODIFIED="1592385518863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>day03.*</FILTER>
-    </SUITE>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
