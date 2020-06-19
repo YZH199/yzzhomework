@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="602e46f4-b071-4985-bf85-aa15b25a11bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SRC/day03/czf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/day04/zuoye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yzzhw.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/day03/czf.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/day02/czf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/day03/hw.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/day02/hw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/day04/zuoye.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/day03/zuoye.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +17,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/day03/hw.java">
+        <entry file="file://$PROJECT_DIR$/SRC/day02/hw.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -26,34 +26,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/day03/czf.java">
+        <entry file="file://$PROJECT_DIR$/SRC/day02/czf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1152">
-              <caret line="36" column="56" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="56" />
+            <state relative-caret-position="576">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SRC/day04/zuoye.java">
+        <entry file="file://$PROJECT_DIR$/SRC/day03/zuoye.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            <state relative-caret-position="-800">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YZZhomework.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yzzhw.iml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -74,6 +64,7 @@
         <option value="$PROJECT_DIR$/SRC/day03/hw.java" />
         <option value="$PROJECT_DIR$/SRC/day03/czf.java" />
         <option value="$PROJECT_DIR$/SRC/day04/zuoye.java" />
+        <option value="$PROJECT_DIR$/SRC/day02/czf.java" />
       </list>
     </option>
   </component>
@@ -83,18 +74,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="205" />
-    <option name="y" value="40" />
-    <option name="width" value="1400" />
-    <option name="height" value="960" />
+    <option name="y" value="45" />
+    <option name="width" value="1434" />
+    <option name="height" value="893" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,16 +103,11 @@
               <item name="SRC" type="462c0819:PsiDirectoryNode" />
               <item name="day03" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="yzzhw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zy" type="462c0819:PsiDirectoryNode" />
-              <item name="SRC" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -132,8 +117,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592476911887" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592536314978" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -152,13 +137,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zuoye">
+  <component name="RunManager" selected="Application.czf">
     <configuration name="czf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.czf" />
+      <option name="MAIN_CLASS_NAME" value="day02.czf" />
       <module name="yzzhw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +152,11 @@
       </method>
     </configuration>
     <configuration name="zuoye" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.zuoye" />
+      <option name="MAIN_CLASS_NAME" value="day03.zuoye" />
       <module name="yzzhw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,8 +170,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zuoye" />
         <item itemvalue="Application.czf" />
+        <item itemvalue="Application.zuoye" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +191,8 @@
       <workItem from="1592461834041" duration="126000" />
       <workItem from="1592463927710" duration="8947000" />
       <workItem from="1592475194541" duration="1674000" />
+      <workItem from="1592482198681" duration="2961000" />
+      <workItem from="1592524697077" duration="1240000" />
     </task>
     <task id="LOCAL-00001" summary="杨忠泽作业">
       <created>1592442062802</created>
@@ -214,16 +201,24 @@
       <option name="project" value="LOCAL" />
       <updated>1592442062802</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="杨忠泽作业">
+      <created>1592482349060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592482349060</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12376000" />
+    <option name="totallyTimeSpent" value="16577000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="377" y="53" width="1147" height="714" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.111930296" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13039486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,43 +258,31 @@
     <MESSAGE value="杨忠泽作业" />
     <option name="LAST_COMMIT_MESSAGE" value="杨忠泽作业" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SRC/day04/zuoye.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SRC/day03/hw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/day03/czf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="36" column="56" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/YZZhomework.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/yzzhw.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/day04/zuoye.java">
+    <entry file="file://$PROJECT_DIR$/SRC/day02/hw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="160">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/day02/czf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/day03/zuoye.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-800">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

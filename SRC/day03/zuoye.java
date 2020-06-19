@@ -1,6 +1,5 @@
-package day04;
+package day03;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
