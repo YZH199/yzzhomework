@@ -10,8 +10,7 @@ public class oi {
 
         FileOutputStream f1 = new FileOutputStream("c.txt");
         OutputStreamWriter o = new OutputStreamWriter(f1);
-        BufferedWriter n = new BufferedWriter(o);
-        PrintWriter pw = new PrintWriter(n);
+        PrintWriter pw = new PrintWriter(o);
 
         String k;
         while ( (k=b.readLine())!= null) {
